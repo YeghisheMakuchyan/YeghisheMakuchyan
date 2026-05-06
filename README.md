@@ -1,4 +1,7 @@
 ## Hi there, I'm Yeghishe 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;Computer+Vision+Specialist;Deep+Learning+Enthusiast" />
+</p>
 
 I am a Machine Learning Engineer and Data Scientist with a strong focus on computer vision and neural network architectures. I enjoy diving deep into the mathematics behind deep learning models and applying them to solve complex, real-world challenges in agriculture and medical informatics.
 
