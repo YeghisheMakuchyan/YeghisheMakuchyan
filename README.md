@@ -16,7 +16,9 @@ I am a Machine Learning Engineer and Data Scientist with a strong focus on compu
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YeghisheMakuchyan&show_icons=true&theme=tokyonight" />
 </p>
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YeghisheMakuchyan&theme=tokyonight" />
+</p>
 ## 🛠️ Tech Stack & Capabilities
 * **Machine Learning & Data Science:** Python, pandas, XGBoost, Regression Modeling, Clustering, and Statistical Analysis (Correlation Matrices).
 * **Deep Learning:** CNN Architecture, Object Detection, Image Classification, and Error Analysis.
