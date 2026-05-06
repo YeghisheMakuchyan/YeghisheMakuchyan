@@ -33,6 +33,11 @@ I am a Machine Learning Engineer and Data Scientist with a strong focus on compu
 * **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/feed/)
 * **Email:** makuchyanyeghishe@gmail.com
 
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=120&section=footer"/>
+</p>
 <!--
 **YeghisheMakuchyan/YeghisheMakuchyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
