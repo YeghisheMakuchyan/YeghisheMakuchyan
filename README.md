@@ -19,10 +19,14 @@ I am a Machine Learning Engineer and Data Scientist with a strong focus on compu
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=YeghisheMakuchyan&theme=tokyonight" />
 </p>
-## 🛠️ Tech Stack & Capabilities
-* **Machine Learning & Data Science:** Python, pandas, XGBoost, Regression Modeling, Clustering, and Statistical Analysis (Correlation Matrices).
-* **Deep Learning:** CNN Architecture, Object Detection, Image Classification, and Error Analysis.
-* **Software Engineering:** React Native, Expo, Git, algorithm implementation, and academic document formatting.
+## 🛠️ Technical Arsenal
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FCC72B?style=for-the-badge&logo=huggingface&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📈 What I'm Building
 * **Crop Monitoring Vision Models:** End-to-end object detection pipelines to identify wheat heads in raw field imagery.
