@@ -12,9 +12,7 @@ I am a Machine Learning Engineer and Data Scientist with a strong focus on compu
 * 📱 **Mobile Development:** Designing a cross-platform workout assistance application using React Native and Expo SDK.
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YeghisheMakuchyan&show_icons=true&theme=tokyonight" />
-</p>
+![stats](https://github-readme-stats.vercel.app/api?username=YeghisheMakuchyan&show_icons=true&theme=tokyonight)
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=YeghisheMakuchyan&theme=tokyonight" />
