@@ -13,9 +13,7 @@ I am a Machine Learning Engineer and Data Scientist with a strong focus on compu
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YeghisheMakuchyan&show_icons=true&theme=tokyonight" />
-</p>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=YeghisheMakuchyan&theme=tokyonight" />
 </p>
