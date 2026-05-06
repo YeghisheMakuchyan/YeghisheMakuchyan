@@ -28,6 +28,10 @@ I am a Machine Learning Engineer and Data Scientist with a strong focus on compu
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+## 🧠 Core Competencies
+
+Mathematical Modeling · Custom Loss Functions · Sequence Modeling · Out-of-Distribution Diagnostics · Query Optimization
+
 ## 📈 What I'm Building
 * **Crop Monitoring Vision Models:** End-to-end object detection pipelines to identify wheat heads in raw field imagery.
 * **Diagnostic Support Tools:** Computer vision applications aimed at assisting with dermatological image analysis.
