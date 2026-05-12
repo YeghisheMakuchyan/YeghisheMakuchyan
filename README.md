@@ -1,4 +1,4 @@
-## Hi there, I'm Yeghishe 👋
+##  Hi there, I'm Yeghishe 👋
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;Computer+Vision+Specialist;Deep+Learning+Enthusiast" />
 </p>
